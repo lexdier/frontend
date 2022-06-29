@@ -1,3 +1,9 @@
+.hover-zoom-er:hover {
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, -6px 11px 38px 1px rgba(110, 110, 110, 0.98);
+    box-shadow: 0px 10px 13px -7px #000000, -6px 11px 38px 1px rgba(110, 110, 110, 0.98);
+    transition: .5s !important;
+}
+
 @import "./node_modules/bootstrap/scss/functions";
 @import "./node_modules/bootstrap/scss/variables";
 @import "./node_modules/bootstrap/scss/maps";
